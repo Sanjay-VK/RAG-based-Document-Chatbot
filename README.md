@@ -1,5 +1,5 @@
 # RAG-based-Document-Chatbot
-An interactive Streamlit-based chatbot that analyzes resumes and answers user queries using NLP and vector similarity search. Built with Python, LangChain, FAISS, and deployed via Hugging Face and Ngrok. Designed as a technical task submission for the AI/ML Internship at Ailaysa Technologies.
+An interactive Streamlit-based chatbot that analyzes resumes and answers user queries using NLP and vector similarity search. Built with Python, LangChain, FAISS, and deployed via Hugging Face and Ngrok. 
 This project is an AI-powered chatbot that allows users to upload documents (PDF or DOCX) and ask questions based on their content. After uploading, the document is processed by extracting and cleaning the text. The text is then divided into smaller sections (chunks) for better understanding.
 
 Each chunk is converted into a numeric representation (embedding) using a language model. These are stored in a FAISS vector database, which helps find the most relevant sections when a user asks a question. The chatbot then identifies the closest matching chunks and generates a response using the original document content.
