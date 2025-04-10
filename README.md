@@ -42,6 +42,9 @@ Hosting the Chatbot Using Ngrok
 By default, the Streamlit application runs locally on the developer’s computer. To make it accessible from anywhere, a tool called Ngrok is used.
 
 Ngrok creates a secure tunnel from a public link to the local chatbot server. When Ngrok is started, it gives a temporary web link. Anyone with this link can access the chatbot from their own devices, even though it's running locally on someone else's machine.
+
+![image](https://github.com/user-attachments/assets/972cfc25-2491-4f91-a8f7-fe1d16786d06)
+
 Full Workflow Overview
 1. User opens the chatbot web interface.
 2. Document is uploaded (PDF/DOCX).
