@@ -45,6 +45,15 @@ Ngrok creates a secure tunnel from a public link to the local chatbot server. Wh
 
 ![image](https://github.com/user-attachments/assets/972cfc25-2491-4f91-a8f7-fe1d16786d06)
 
+![image](https://github.com/user-attachments/assets/2da60ee4-b4cf-47d5-aa3e-f64dc2bb2438)
+
+![image](https://github.com/user-attachments/assets/ea71d247-5deb-4666-88c3-0a537746834e)
+
+![image](https://github.com/user-attachments/assets/812908c9-5851-4cb3-a252-73225f0ffc11)
+
+
+![Uploading image.png…]()
+
 Full Workflow Overview
 1. User opens the chatbot web interface.
 2. Document is uploaded (PDF/DOCX).
